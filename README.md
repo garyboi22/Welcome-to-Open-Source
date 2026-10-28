@@ -66,6 +66,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/garyboi22">
+                    <img src="https://avatars.githubusercontent.com/u/194575037?s=400&u=ecdfa126af407ea0f83d2c2af47f5e6fc1a9e039&v=4" width="100px;"
+                        alt="Garima singh" />
+                    <br />
+                    <sub>
+                        <b>Garima singh</b>
+                    </sub>
+                </a>
+            </td>
         <td align="center">
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
